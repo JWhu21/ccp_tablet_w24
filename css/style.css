@@ -131,7 +131,7 @@ nav ul li a.active, nav ul li a:hover {
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 768px){
     .pets-grid, .recipes-grid, .travel-grid {
         grid-template-columns: repeat(2, 1fr);
     }
